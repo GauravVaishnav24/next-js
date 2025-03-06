@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Chai page",
 };
 
-function page() {
+function chaiPage() {
   return (
     <div>
       <main className='bg-amber-800 flex items-center justify-center min-h-screen'>
@@ -15,5 +15,5 @@ function page() {
   )
 }
 
-export default page
+export default chaiPage;
 
